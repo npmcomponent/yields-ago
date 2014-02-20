@@ -1,0 +1,15 @@
+{
+  "name": "yields-ago",
+  "description": "Date(now - 1e3) => a second ago",
+  "version": "0.1.0",
+  "keywords": [
+    "ago",
+    "time",
+    "conversion"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-approximate-time": "git://github.com/npmcomponent/yields-approximate-time.git"
+  },
+  "license": "MIT"
+}
